@@ -1,0 +1,488 @@
+category	delivered_orders	units_sold	delivered_item_sales
+Electronics	448	1344	13430272.02
+Home & Kitchen	415	830	3278031.16
+Sports	410	820	2398609.12
+Beauty	452	1356	2109273.66
+Grocery	413	1652	1107648.88
+Books	412	1648	974462.88
+Toys	414	414	866730.50
+Clothing	411	411	708081.22
+order_month	delivered_orders	delivered_item_sales
+2025-01	62	1401483.56
+2025-02	57	1214263.30
+2025-03	65	1470824.34
+2025-04	63	1416771.08
+2025-05	62	1328938.34
+2025-06	60	1384990.12
+2025-07	64	1335862.74
+2025-08	64	1469833.42
+2025-09	63	1394692.22
+2025-10	66	1413601.34
+2025-11	61	1344521.54
+2025-12	62	1398736.96
+2026-01	64	1355372.10
+2026-02	58	1358324.10
+2026-03	65	1395107.38
+2026-04	62	1404477.06
+2026-05	64	1404016.94
+2026-06	61	1355117.42
+2026-07	2	26175.48
+category	delivered_units
+Grocery	1652
+Books	1648
+Beauty	1356
+Electronics	1344
+Home & Kitchen	830
+Sports	820
+Toys	414
+Clothing	411
+customer_id	first_name	last_name	delivered_orders	delivered_item_sales
+389	Aarav	Bose	3	124664.54
+469	Aarav	Bose	3	124664.54
+349	Aarav	Bose	3	124449.58
+429	Aarav	Bose	3	124449.58
+137	Neel	Iyer	3	119837.26
+customer_id	first_name	last_name	delivered_order_count
+1	Arjun	Rao	3
+2	Saanvi	Bhat	3
+3	Dev	Joshi	3
+4	Reyansh	Patel	3
+5	Rohan	Menon	3
+8	Kabir	Mehta	3
+9	Aarav	Bose	3
+10	Diya	Das	3
+11	Ira	Mishra	3
+12	Vivaan	Singh	3
+14	Meera	Khan	3
+15	Aditya	Reddy	3
+16	Isha	Gupta	3
+17	Neel	Iyer	3
+18	Vihaan	Verma	3
+21	Arjun	Rao	3
+22	Saanvi	Bhat	3
+23	Dev	Joshi	3
+24	Reyansh	Patel	3
+25	Rohan	Menon	3
+28	Kabir	Mehta	3
+29	Aarav	Bose	3
+30	Diya	Das	3
+31	Ira	Mishra	3
+32	Vivaan	Singh	3
+34	Meera	Khan	3
+35	Aditya	Reddy	3
+36	Isha	Gupta	3
+37	Neel	Iyer	3
+38	Vihaan	Verma	3
+41	Arjun	Rao	3
+42	Saanvi	Bhat	3
+43	Dev	Joshi	3
+44	Reyansh	Patel	3
+45	Rohan	Menon	3
+48	Kabir	Mehta	3
+49	Aarav	Bose	3
+50	Diya	Das	3
+51	Ira	Mishra	3
+52	Vivaan	Singh	3
+54	Meera	Khan	3
+55	Aditya	Reddy	3
+56	Isha	Gupta	3
+57	Neel	Iyer	3
+58	Vihaan	Verma	3
+61	Arjun	Rao	3
+62	Saanvi	Bhat	3
+63	Dev	Joshi	3
+64	Reyansh	Patel	3
+65	Rohan	Menon	3
+68	Kabir	Mehta	3
+69	Aarav	Bose	3
+70	Diya	Das	3
+71	Ira	Mishra	3
+72	Vivaan	Singh	3
+74	Meera	Khan	3
+75	Aditya	Reddy	3
+76	Isha	Gupta	3
+77	Neel	Iyer	3
+78	Vihaan	Verma	3
+81	Arjun	Rao	3
+82	Saanvi	Bhat	3
+83	Dev	Joshi	3
+84	Reyansh	Patel	3
+85	Rohan	Menon	3
+88	Kabir	Mehta	3
+89	Aarav	Bose	3
+90	Diya	Das	3
+91	Ira	Mishra	3
+92	Vivaan	Singh	3
+94	Meera	Khan	3
+95	Aditya	Reddy	3
+96	Isha	Gupta	3
+97	Neel	Iyer	3
+98	Vihaan	Verma	3
+101	Arjun	Rao	3
+102	Saanvi	Bhat	3
+103	Dev	Joshi	3
+104	Reyansh	Patel	3
+105	Rohan	Menon	3
+108	Kabir	Mehta	3
+109	Aarav	Bose	3
+110	Diya	Das	3
+111	Ira	Mishra	3
+112	Vivaan	Singh	3
+114	Meera	Khan	3
+115	Aditya	Reddy	3
+116	Isha	Gupta	3
+117	Neel	Iyer	3
+118	Vihaan	Verma	3
+121	Arjun	Rao	3
+122	Saanvi	Bhat	3
+123	Dev	Joshi	3
+124	Reyansh	Patel	3
+125	Rohan	Menon	3
+128	Kabir	Mehta	3
+129	Aarav	Bose	3
+130	Diya	Das	3
+131	Ira	Mishra	3
+132	Vivaan	Singh	3
+134	Meera	Khan	3
+135	Aditya	Reddy	3
+136	Isha	Gupta	3
+137	Neel	Iyer	3
+138	Vihaan	Verma	3
+141	Arjun	Rao	3
+142	Saanvi	Bhat	3
+143	Dev	Joshi	3
+144	Reyansh	Patel	3
+145	Rohan	Menon	3
+148	Kabir	Mehta	3
+149	Aarav	Bose	3
+150	Diya	Das	3
+151	Ira	Mishra	3
+152	Vivaan	Singh	3
+154	Meera	Khan	3
+155	Aditya	Reddy	3
+156	Isha	Gupta	3
+157	Neel	Iyer	3
+158	Vihaan	Verma	3
+161	Arjun	Rao	3
+162	Saanvi	Bhat	3
+163	Dev	Joshi	3
+164	Reyansh	Patel	3
+165	Rohan	Menon	3
+168	Kabir	Mehta	3
+169	Aarav	Bose	3
+170	Diya	Das	3
+171	Ira	Mishra	3
+172	Vivaan	Singh	3
+174	Meera	Khan	3
+175	Aditya	Reddy	3
+176	Isha	Gupta	3
+177	Neel	Iyer	3
+178	Vihaan	Verma	3
+181	Arjun	Rao	3
+182	Saanvi	Bhat	3
+183	Dev	Joshi	3
+184	Reyansh	Patel	3
+185	Rohan	Menon	3
+188	Kabir	Mehta	3
+189	Aarav	Bose	3
+190	Diya	Das	3
+191	Ira	Mishra	3
+192	Vivaan	Singh	3
+194	Meera	Khan	3
+195	Aditya	Reddy	3
+196	Isha	Gupta	3
+197	Neel	Iyer	3
+198	Vihaan	Verma	3
+201	Arjun	Rao	3
+202	Saanvi	Bhat	3
+203	Dev	Joshi	3
+204	Reyansh	Patel	3
+205	Rohan	Menon	3
+208	Kabir	Mehta	3
+209	Aarav	Bose	3
+210	Diya	Das	3
+211	Ira	Mishra	3
+212	Vivaan	Singh	3
+214	Meera	Khan	3
+215	Aditya	Reddy	3
+216	Isha	Gupta	3
+217	Neel	Iyer	3
+218	Vihaan	Verma	3
+221	Arjun	Rao	3
+222	Saanvi	Bhat	3
+223	Dev	Joshi	3
+224	Reyansh	Patel	3
+225	Rohan	Menon	3
+228	Kabir	Mehta	3
+229	Aarav	Bose	3
+230	Diya	Das	3
+231	Ira	Mishra	3
+232	Vivaan	Singh	3
+234	Meera	Khan	3
+235	Aditya	Reddy	3
+236	Isha	Gupta	3
+237	Neel	Iyer	3
+238	Vihaan	Verma	3
+241	Arjun	Rao	3
+242	Saanvi	Bhat	3
+243	Dev	Joshi	3
+244	Reyansh	Patel	3
+245	Rohan	Menon	3
+248	Kabir	Mehta	3
+249	Aarav	Bose	3
+250	Diya	Das	3
+251	Ira	Mishra	3
+252	Vivaan	Singh	3
+254	Meera	Khan	3
+255	Aditya	Reddy	3
+256	Isha	Gupta	3
+257	Neel	Iyer	3
+258	Vihaan	Verma	3
+261	Arjun	Rao	3
+262	Saanvi	Bhat	3
+263	Dev	Joshi	3
+264	Reyansh	Patel	3
+265	Rohan	Menon	3
+268	Kabir	Mehta	3
+269	Aarav	Bose	3
+270	Diya	Das	3
+271	Ira	Mishra	3
+272	Vivaan	Singh	3
+274	Meera	Khan	3
+275	Aditya	Reddy	3
+276	Isha	Gupta	3
+277	Neel	Iyer	3
+278	Vihaan	Verma	3
+281	Arjun	Rao	3
+282	Saanvi	Bhat	3
+283	Dev	Joshi	3
+284	Reyansh	Patel	3
+285	Rohan	Menon	3
+288	Kabir	Mehta	3
+289	Aarav	Bose	3
+290	Diya	Das	3
+291	Ira	Mishra	3
+292	Vivaan	Singh	3
+294	Meera	Khan	3
+295	Aditya	Reddy	3
+296	Isha	Gupta	3
+297	Neel	Iyer	3
+298	Vihaan	Verma	3
+301	Arjun	Rao	3
+302	Saanvi	Bhat	3
+303	Dev	Joshi	3
+304	Reyansh	Patel	3
+305	Rohan	Menon	3
+308	Kabir	Mehta	3
+309	Aarav	Bose	3
+310	Diya	Das	3
+311	Ira	Mishra	3
+312	Vivaan	Singh	3
+314	Meera	Khan	3
+315	Aditya	Reddy	3
+316	Isha	Gupta	3
+317	Neel	Iyer	3
+318	Vihaan	Verma	3
+321	Arjun	Rao	3
+322	Saanvi	Bhat	3
+323	Dev	Joshi	3
+324	Reyansh	Patel	3
+325	Rohan	Menon	3
+328	Kabir	Mehta	3
+329	Aarav	Bose	3
+330	Diya	Das	3
+331	Ira	Mishra	3
+332	Vivaan	Singh	3
+334	Meera	Khan	3
+335	Aditya	Reddy	3
+336	Isha	Gupta	3
+337	Neel	Iyer	3
+338	Vihaan	Verma	3
+341	Arjun	Rao	3
+342	Saanvi	Bhat	3
+343	Dev	Joshi	3
+344	Reyansh	Patel	3
+345	Rohan	Menon	3
+348	Kabir	Mehta	3
+349	Aarav	Bose	3
+350	Diya	Das	3
+351	Ira	Mishra	3
+352	Vivaan	Singh	3
+354	Meera	Khan	3
+355	Aditya	Reddy	3
+356	Isha	Gupta	3
+357	Neel	Iyer	3
+358	Vihaan	Verma	3
+361	Arjun	Rao	3
+362	Saanvi	Bhat	3
+363	Dev	Joshi	3
+364	Reyansh	Patel	3
+365	Rohan	Menon	3
+368	Kabir	Mehta	3
+369	Aarav	Bose	3
+370	Diya	Das	3
+371	Ira	Mishra	3
+372	Vivaan	Singh	3
+374	Meera	Khan	3
+375	Aditya	Reddy	3
+376	Isha	Gupta	3
+377	Neel	Iyer	3
+378	Vihaan	Verma	3
+381	Arjun	Rao	3
+382	Saanvi	Bhat	3
+383	Dev	Joshi	3
+384	Reyansh	Patel	3
+385	Rohan	Menon	3
+388	Kabir	Mehta	3
+389	Aarav	Bose	3
+390	Diya	Das	3
+391	Ira	Mishra	3
+392	Vivaan	Singh	3
+394	Meera	Khan	3
+395	Aditya	Reddy	3
+396	Isha	Gupta	3
+397	Neel	Iyer	3
+398	Vihaan	Verma	3
+401	Arjun	Rao	3
+402	Saanvi	Bhat	3
+403	Dev	Joshi	3
+404	Reyansh	Patel	3
+405	Rohan	Menon	3
+408	Kabir	Mehta	3
+409	Aarav	Bose	3
+410	Diya	Das	3
+411	Ira	Mishra	3
+412	Vivaan	Singh	3
+414	Meera	Khan	3
+415	Aditya	Reddy	3
+416	Isha	Gupta	3
+417	Neel	Iyer	3
+418	Vihaan	Verma	3
+421	Arjun	Rao	3
+422	Saanvi	Bhat	3
+423	Dev	Joshi	3
+424	Reyansh	Patel	3
+425	Rohan	Menon	3
+428	Kabir	Mehta	3
+429	Aarav	Bose	3
+430	Diya	Das	3
+431	Ira	Mishra	3
+432	Vivaan	Singh	3
+434	Meera	Khan	3
+435	Aditya	Reddy	3
+436	Isha	Gupta	3
+437	Neel	Iyer	3
+438	Vihaan	Verma	3
+441	Arjun	Rao	3
+442	Saanvi	Bhat	3
+443	Dev	Joshi	3
+444	Reyansh	Patel	3
+445	Rohan	Menon	3
+448	Kabir	Mehta	3
+449	Aarav	Bose	3
+450	Diya	Das	3
+451	Ira	Mishra	3
+452	Vivaan	Singh	3
+454	Meera	Khan	3
+455	Aditya	Reddy	3
+456	Isha	Gupta	3
+457	Neel	Iyer	3
+458	Vihaan	Verma	3
+461	Arjun	Rao	3
+462	Saanvi	Bhat	3
+463	Dev	Joshi	3
+464	Reyansh	Patel	3
+465	Rohan	Menon	3
+468	Kabir	Mehta	3
+469	Aarav	Bose	3
+470	Diya	Das	3
+471	Ira	Mishra	3
+472	Vivaan	Singh	3
+474	Meera	Khan	3
+475	Aditya	Reddy	3
+476	Isha	Gupta	3
+477	Neel	Iyer	3
+478	Vihaan	Verma	3
+481	Arjun	Rao	3
+482	Saanvi	Bhat	3
+483	Dev	Joshi	3
+484	Reyansh	Patel	3
+485	Rohan	Menon	3
+488	Kabir	Mehta	3
+489	Aarav	Bose	3
+490	Diya	Das	3
+491	Ira	Mishra	3
+492	Vivaan	Singh	3
+494	Meera	Khan	3
+495	Aditya	Reddy	3
+496	Isha	Gupta	3
+497	Neel	Iyer	3
+498	Vihaan	Verma	3
+seller_id	seller_name	delivered_orders	units_sold	delivered_item_sales
+31	Blue Peak Commerce	113	289	2097378.70
+4	Cobalt Works Commerce	88	241	1797068.70
+16	Cobalt Works Commerce	112	282	1687862.18
+23	Urban Loom Commerce	88	274	1546522.70
+27	Willow Market Commerce	86	248	1367225.20
+35	Urban Loom Commerce	113	263	1317349.96
+20	Maple & Main Commerce	113	267	1249775.70
+12	Silver Fern Commerce	76	206	1150080.74
+8	Maple & Main Commerce	86	242	1099757.60
+34	Bright Basket Commerce	113	286	871258.82
+17	Saffron Lane Commerce	112	270	738575.36
+2	Northstar Commerce	113	279	601244.00
+7	Blue Peak Commerce	89	176	564656.08
+3	Willow Market Commerce	74	150	564321.42
+33	Cedar House Commerce	111	293	551529.78
+11	Urban Loom Commerce	85	183	506201.28
+21	Cedar House Commerce	90	271	504842.22
+22	Bright Basket Commerce	85	194	502173.60
+32	Maple & Main Commerce	114	277	478198.96
+19	Blue Peak Commerce	110	284	436574.88
+25	Golden Hour Commerce	74	220	423144.00
+1	Golden Hour Commerce	112	286	420221.78
+14	Northstar Commerce	112	287	415597.46
+15	Willow Market Commerce	113	261	412331.82
+29	Saffron Lane Commerce	89	269	375255.30
+6	Harbor Goods Commerce	86	234	372938.22
+26	Northstar Commerce	77	180	361136.06
+18	Harbor Goods Commerce	113	302	349534.08
+30	Harbor Goods Commerce	84	180	344425.44
+24	Silver Fern Commerce	76	174	332072.86
+28	Cobalt Works Commerce	88	229	327641.98
+13	Golden Hour Commerce	115	310	285669.50
+5	Saffron Lane Commerce	88	166	285185.40
+10	Bright Basket Commerce	90	218	273844.76
+9	Cedar House Commerce	87	184	261512.90
+city	delivered_orders	delivered_item_sales
+Kochi	102	2771152.60
+Pune	99	2763059.82
+Delhi	99	2630588.18
+Bengaluru	99	2600107.34
+Kolkata	99	2535256.34
+Lucknow	102	2413803.00
+Indore	99	2303722.42
+Ahmedabad	102	2213149.44
+Hyderabad	99	2085433.74
+Jaipur	78	876889.68
+Chennai	75	863760.80
+Mumbai	72	816186.08
+payment_method	tender_group	successful_payment_count	average_successful_payment
+Debit Card	Prepaid	200	25970.79
+Net Banking	Prepaid	200	23198.03
+Cash on Delivery	COD	200	21740.95
+Credit Card	Prepaid	200	20880.43
+Wallet	Prepaid	200	19113.32
+UPI	Prepaid	200	17439.71
+payment_method	attempts	successful_count	pending_count	failed_count
+Cash on Delivery	250	200	25	25
+Credit Card	250	200	25	25
+Debit Card	250	200	25	25
+Net Banking	250	200	25	25
+UPI	250	200	25	25
+Wallet	250	200	25	25
+order_status	order_count	average_order_value	minimum_order_value	maximum_order_value
+Cancelled	150	27046.59	9173.30	66711.26
+Delivered	1125	22109.43	5354.74	63370.66
+Pending	150	18111.91	5274.96	58958.22
+Returned	75	10607.15	6986.48	18588.16

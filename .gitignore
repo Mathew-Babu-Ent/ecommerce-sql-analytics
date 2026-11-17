@@ -1,0 +1,39 @@
+# Local credentials and environment-specific files
+.env
+.env.*
+*.env
+!.env.example
+*.cnf
+my.ini
+credentials.*
+secrets.*
+*.secret
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+.mysql_history
+
+# Local database files and dumps
+*.sql.gz
+*dump*.sql
+*.dump
+*.sqlite
+*.db
+backups/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary exports and logs
+*.log
+*.tmp
+*.bak
+~$*

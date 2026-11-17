@@ -1,0 +1,175 @@
+order_id	customer_id	order_date	order_status
+1024	226	2025-01-02 00:52:00	Pending
+103	19	2025-01-07 09:19:00	Pending
+823	259	2025-01-12 09:19:00	Pending
+564	406	2025-01-14 20:12:00	Pending
+1284	146	2025-01-19 20:12:00	Pending
+363	439	2025-01-24 05:39:00	Pending
+104	86	2025-01-26 16:32:00	Pending
+1083	179	2025-01-29 05:39:00	Pending
+824	326	2025-01-31 16:32:00	Pending
+623	359	2025-02-10 01:59:00	Pending
+category
+Beauty
+Books
+Clothing
+Electronics
+Grocery
+Home & Kitchen
+Sports
+Toys
+product_id	product_name	category	list_price
+65	Wireless Headphones Model 065	Electronics	18921.00
+57	Wireless Headphones Model 057	Electronics	18145.00
+49	Wireless Headphones Model 049	Electronics	17369.00
+41	Wireless Headphones Model 041	Electronics	16593.00
+33	Wireless Headphones Model 033	Electronics	15817.00
+25	Wireless Headphones Model 025	Electronics	15041.00
+17	Wireless Headphones Model 017	Electronics	14265.00
+9	Wireless Headphones Model 009	Electronics	13489.00
+1	Wireless Headphones Model 001	Electronics	12713.00
+42	Ceramic Cookware Set Model 042	Home & Kitchen	8078.00
+product_id	product_name	category	stock_quantity
+7	Wooden Building Blocks Model 007	Toys	0
+86	Trail Running Bottle Model 086	Sports	1
+73	Wireless Headphones Model 073	Electronics	4
+60	Contemporary Fiction Model 060	Books	7
+47	Wooden Building Blocks Model 047	Toys	10
+34	Ceramic Cookware Set Model 034	Home & Kitchen	13
+113	Wireless Headphones Model 113	Electronics	14
+21	Hydrating Face Serum Model 021	Beauty	16
+100	Contemporary Fiction Model 100	Books	17
+8	Organic Tea Selection Model 008	Grocery	19
+87	Wooden Building Blocks Model 087	Toys	20
+74	Ceramic Cookware Set Model 074	Home & Kitchen	23
+customer_id	first_name	last_name	signup_date
+283	Dev	Joshi	2025-06-07
+307	Aanya	Pillai	2025-05-26
+331	Ira	Mishra	2025-05-14
+355	Aditya	Reddy	2025-05-02
+379	Mira	Kapoor	2025-04-20
+403	Dev	Joshi	2025-04-08
+427	Aanya	Pillai	2025-03-27
+451	Ira	Mishra	2025-03-15
+475	Aditya	Reddy	2025-03-03
+499	Mira	Kapoor	2025-02-19
+order_id	customer_id	order_date	order_status
+928	294	2026-01-01 00:04:00	Delivered
+381	145	2026-01-01 11:33:00	Delivered
+1475	443	2026-01-01 13:35:00	Delivered
+1072	442	2026-01-02 00:16:00	Delivered
+525	293	2026-01-02 11:45:00	Cancelled
+1216	90	2026-01-03 00:28:00	Delivered
+669	441	2026-01-03 11:57:00	Delivered
+122	292	2026-01-03 22:26:00	Delivered
+1360	238	2026-01-04 00:40:00	Delivered
+813	89	2026-01-04 11:09:00	Delivered
+266	440	2026-01-04 22:38:00	Cancelled
+957	237	2026-01-05 11:21:00	Delivered
+410	88	2026-01-05 22:50:00	Delivered
+7	87	2026-01-06 09:31:00	Returned
+1101	385	2026-01-06 11:33:00	Delivered
+554	236	2026-01-06 22:02:00	Delivered
+151	235	2026-01-07 09:43:00	Delivered
+1245	33	2026-01-07 11:45:00	Cancelled
+698	384	2026-01-07 22:14:00	Delivered
+295	383	2026-01-08 09:55:00	Delivered
+1389	181	2026-01-08 11:57:00	Delivered
+842	32	2026-01-08 22:26:00	Delivered
+439	31	2026-01-09 09:07:00	Delivered
+986	180	2026-01-09 22:38:00	Cancelled
+583	179	2026-01-10 09:19:00	Pending
+36	30	2026-01-10 20:48:00	Delivered
+1130	328	2026-01-10 22:50:00	Delivered
+727	327	2026-01-11 09:31:00	Returned
+180	178	2026-01-11 20:00:00	Delivered
+1274	476	2026-01-11 22:02:00	Delivered
+871	475	2026-01-12 09:43:00	Delivered
+324	326	2026-01-12 20:12:00	Pending
+1418	124	2026-01-12 22:14:00	Delivered
+1015	123	2026-01-13 09:55:00	Delivered
+468	474	2026-01-13 20:24:00	Delivered
+65	473	2026-01-14 07:05:00	Cancelled
+1159	271	2026-01-14 09:07:00	Delivered
+612	122	2026-01-14 20:36:00	Delivered
+209	121	2026-01-15 07:17:00	Delivered
+1303	419	2026-01-15 09:19:00	Pending
+756	270	2026-01-15 20:48:00	Delivered
+353	269	2026-01-16 07:29:00	Delivered
+1447	67	2026-01-16 09:31:00	Returned
+900	418	2026-01-16 20:00:00	Delivered
+497	417	2026-01-17 07:41:00	Delivered
+1044	66	2026-01-17 20:12:00	Pending
+641	65	2026-01-18 07:53:00	Delivered
+94	416	2026-01-18 18:22:00	Delivered
+1188	214	2026-01-18 20:24:00	Delivered
+785	213	2026-01-19 07:05:00	Cancelled
+238	64	2026-01-19 18:34:00	Delivered
+1332	362	2026-01-19 20:36:00	Delivered
+929	361	2026-01-20 07:17:00	Delivered
+382	212	2026-01-20 18:46:00	Delivered
+1476	10	2026-01-20 20:48:00	Delivered
+1073	9	2026-01-21 07:29:00	Delivered
+526	360	2026-01-21 18:58:00	Cancelled
+123	359	2026-01-22 05:39:00	Pending
+1217	157	2026-01-22 07:41:00	Delivered
+670	8	2026-01-22 18:10:00	Delivered
+267	7	2026-01-23 05:51:00	Returned
+1361	305	2026-01-23 07:53:00	Delivered
+814	156	2026-01-23 18:22:00	Delivered
+411	155	2026-01-24 05:03:00	Delivered
+958	304	2026-01-24 18:34:00	Delivered
+555	303	2026-01-25 05:15:00	Delivered
+8	154	2026-01-25 16:44:00	Delivered
+1102	452	2026-01-25 18:46:00	Delivered
+699	451	2026-01-26 05:27:00	Delivered
+152	302	2026-01-26 16:56:00	Delivered
+1246	100	2026-01-26 18:58:00	Cancelled
+843	99	2026-01-27 05:39:00	Pending
+296	450	2026-01-27 16:08:00	Delivered
+1390	248	2026-01-27 18:10:00	Delivered
+987	247	2026-01-28 05:51:00	Returned
+440	98	2026-01-28 16:20:00	Delivered
+37	97	2026-01-29 03:01:00	Delivered
+1131	395	2026-01-29 05:03:00	Delivered
+584	246	2026-01-29 16:32:00	Pending
+181	245	2026-01-30 03:13:00	Delivered
+1275	43	2026-01-30 05:15:00	Delivered
+728	394	2026-01-30 16:44:00	Delivered
+325	393	2026-01-31 03:25:00	Cancelled
+1419	191	2026-01-31 05:27:00	Delivered
+872	42	2026-01-31 16:56:00	Delivered
+payment_method
+Cash on Delivery
+Credit Card
+Debit Card
+Net Banking
+UPI
+Wallet
+payment_id	order_id	payment_method	payment_amount	payment_date
+3045	45	UPI	38816.18	2026-07-01 07:45:00
+3966	966	Cash on Delivery	66711.26	2026-06-27 01:18:00
+4225	1225	Wallet	17521.62	2026-06-23 23:25:00
+3246	246	Cash on Delivery	66711.26	2026-06-22 01:18:00
+3505	505	Wallet	17521.62	2026-06-18 23:25:00
+4426	1426	Debit Card	11589.98	2026-06-14 17:58:00
+3706	706	Debit Card	11589.98	2026-06-09 17:58:00
+3965	965	Credit Card	9907.94	2026-06-08 15:05:00
+3245	245	Credit Card	9907.94	2026-06-03 15:05:00
+4166	1166	Net Banking	50030.86	2026-05-28 09:38:00
+4425	1425	UPI	10311.30	2026-05-27 07:45:00
+3446	446	Net Banking	50030.86	2026-05-23 09:38:00
+3705	705	UPI	10311.30	2026-05-22 07:45:00
+3906	906	Cash on Delivery	22091.10	2026-05-11 01:18:00
+4165	1165	Wallet	53299.38	2026-05-08 23:25:00
+product_id	product_name	category	created_at
+38	Trail Running Bottle Model 038	Sports	2025-09-18
+81	Wireless Headphones Model 081	Electronics	2025-09-07
+37	Hydrating Face Serum Model 037	Beauty	2025-08-26
+80	Organic Tea Selection Model 080	Grocery	2025-08-15
+36	Contemporary Fiction Model 036	Books	2025-08-03
+79	Wooden Building Blocks Model 079	Toys	2025-07-23
+35	Everyday Cotton Shirt Model 035	Clothing	2025-07-11
+78	Trail Running Bottle Model 078	Sports	2025-06-30
+34	Ceramic Cookware Set Model 034	Home & Kitchen	2025-06-18
+77	Hydrating Face Serum Model 077	Beauty	2025-06-07
